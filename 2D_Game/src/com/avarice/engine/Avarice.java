@@ -21,10 +21,11 @@ public class Avarice extends Canvas implements Runnable {
 
         ran = new Random();
 
-        handler.gameObjects.add(new Player(100, 100, ID.Player));
-
-        //for (int i = 0; i < 20; i++)
-        handler.gameObjects.add(new BasicEnemy(ran.nextInt(W), H / 2 - 32, ID.BasicEnemy));
+        handler.gameObjects.add(new Player(100, 100, ID.Player, handler));
+        handler.gameObjects.add(new BasicEnemy(ran.nextInt(W), H / 2 - 32, ID.BasicEnemy, handler));
+        handler.gameObjects.add(new BasicEnemy(ran.nextInt(W), H / 2 - 32, ID.BasicEnemy, handler));
+        handler.gameObjects.add(new BasicEnemy(ran.nextInt(W), H / 2 - 32, ID.BasicEnemy, handler));
+        handler.gameObjects.add(new BasicEnemy(ran.nextInt(W), H / 2 - 32, ID.BasicEnemy, handler));
 
     }
 
