@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61573d5b-468f-46ba-8f7a-9d3170f8da96" name="Default Changelist" comment="" />
+    <list default="true" id="61573d5b-468f-46ba-8f7a-9d3170f8da96" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,10 +143,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575229986169" />
-    <state x="656" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1575315961778">
+    <state x="656" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1576702079842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575315961778" />
+    <state x="656" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576702079842" />
     <state x="342" y="139" key="new project wizard" timestamp="1575316003642">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
