@@ -26,7 +26,7 @@ public class Avarice extends Canvas implements Runnable {
         handler.gameObjects.add(new BasicEnemy(ran.nextInt(W), H / 2 - 32, ID.BasicEnemy, handler));
         handler.gameObjects.add(new BasicEnemy(ran.nextInt(W), H / 2 - 32, ID.BasicEnemy, handler));
         handler.gameObjects.add(new BasicEnemy(ran.nextInt(W), H / 2 - 32, ID.BasicEnemy, handler));
-        handler.gameObjects.add(new Asteroid(ran.nextInt(W), H / 2 - 32, ID.Asteroid, handler,5,10));
+//        handler.gameObjects.add(new Asteroid(ran.nextInt(W), H / 2 - 32, ID.Asteroid, handler,5,10));
     }
 
     public static int clamp(int var, int min, int max) {
